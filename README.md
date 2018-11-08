@@ -1,4 +1,6 @@
 # fraternity mass text system
+## First Code Commit: 11/22/2016
+## Last Code Commit: 11/30/2016
 
 This was a backend server I wrote for an angular app for my college fraternity. It handled broadcasting mass texts to all of the authorized fraternity members.
 
